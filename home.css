@@ -1,0 +1,197 @@
+.mediaViewInfo {
+	--web-view-name: home;
+	--web-view-id: home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: home;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#home {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: home;
+	--web-view-id: home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#ID20200212_160228_cc {
+	position: absolute;
+	width: 2292px;
+	height: 1080.5px;
+	left: -193px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1_cd {
+	fill: rgba(255,255,255,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_cd {
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	height: 73px;
+	left: 42px;
+	top: 30px;
+}
+#RP_ce {
+	mix-blend-mode: darken;
+	filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 62px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Group_36 {
+	position: absolute;
+	width: 100px;
+	height: 47px;
+	left: 1179px;
+	top: 43px;
+	overflow: visible;
+}
+#HOME_cg {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Component_1__1 {
+	position: absolute;
+	width: 890px;
+	height: 100px;
+	left: 535px;
+	top: 511px;
+	overflow: visible;
+}
+#Hello_Im_Ridham_Pansara {
+	filter: drop-shadow(5px 3px 6px rgba(255, 0, 0, 0.161));
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 891px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 75px;
+	color: rgba(0,0,0,1);
+}
+#WhatsApp_Image_2020-07-17_at_3 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 251.844px;
+	height: 232px;
+	left: 854.027px;
+	top: 258px;
+	overflow: visible;
+}
+#WhatsApp_Image_2020-07-17_at_3_ck {
+	position: absolute;
+	width: 251.844px;
+	height: 232px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: home___2.html;
+	cursor: pointer;
+}
+#PHOTOS_cl {
+	left: 1346px;
+	top: 43px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: home___2.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#ABOUT_cm {
+	left: 1543.5px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: home___15.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#CONTACT_cn {
+	left: 1723.5px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: home___20.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
